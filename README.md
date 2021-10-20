@@ -2,9 +2,9 @@
 
 > Atividades ministradas por <a href="https://github.com/jeffersonchaves">@jeffersonchaves</a> para prática da biblioteca Pandas em Python.
 
-<ul>Integrantes: <br>
-               <li><a href="https://github.com/dudabecker">@dudabecker</a>; <br>
-               <li><a href="https://github.com/alanissima">@alanissima</a>; <br>
-               <li><a href="https://github.com/nicollytavassii">@nicollytavassii</a>; <br>
-               <li><a href="https://github.com/Mariaehsb">@Mariaehsb</a>. <br>
+Integrantes: <br>
+<ul>           <li><a href="https://github.com/dudabecker">@dudabecker</a>; 
+               <li><a href="https://github.com/alanissima">@alanissima</a>; 
+               <li><a href="https://github.com/nicollytavassii">@nicollytavassii</a>; 
+               <li><a href="https://github.com/Mariaehsb">@Mariaehsb</a>. 
 </ul>
