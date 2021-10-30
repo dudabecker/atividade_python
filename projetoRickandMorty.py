@@ -49,3 +49,17 @@ episodio = episodio.split('/')
 episodio = int(episodio[-1])
 
 print(f'6. O personagem Crocubot aparece no episódio {episodio}.\n')
+
+#7. Quantos personagens estão em planetas chamados Earth, independente do universo.
+terraquios_condicao = personagens['location'] == 'Earth'
+terraquios = personagens.loc[terraquios_condicao]
+coluna, terraquios_qnt = terraquios.shape
+
+print(f'7. Existem {terraquios_qnt} personagens que estão em planetas chamado Earth.\n')
+
+#8. Em quantos espisódios diferentes aparecem personagens da espécie alienígena?
+alien_condicao = personagens['species'] == 'Alien'
+alien = personagens.loc[alien_condicao]
+numero_earth, coluna= alien.shape
+
+print(f'8. Os personagens da espécie alienígena aparecem em {numero_earth} episódios diferentes.\n')
